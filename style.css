@@ -1,0 +1,139 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    padding: 180px 0 0 60px;
+}
+
+.main-sedans {
+    margin-top: -100px;
+    background: rgb(255, 136, 37);
+    width: 400px;
+    height: 500px;
+    border-radius: 10px 0 0 0;
+}
+
+.car-sedans {
+    padding: 40px;
+}
+
+.title-sedans {
+    font-family: 'Big Shoulders Display', cursive;
+    /*font-family: 'Lexend Deca', sans-serif;*/
+    margin-left: 40px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+    
+}
+
+.text-sedans {
+    margin: 40px 0 0 40px;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: white;    
+    letter-spacing: .2rem;
+}
+
+.btn-sedans {
+    width: 200px;
+    height: 50px;
+    margin: 70px 0 0 40px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: rgb(255, 136, 37);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+.main-suvs {
+    margin-top: -500px;
+    margin-left: 400px;
+    border: 1px solid green;
+    background: green;
+    width: 400px;
+    height: 500px;
+}
+
+.car-suvs {
+    padding: 40px;
+}
+
+.title-suvs {
+    font-family: 'Big Shoulders Display', cursive;
+    /*font-family: 'Lexend Deca', sans-serif;*/
+    margin-left: 40px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;   
+}
+
+.text-suvs {
+    margin: 40px 0 0 40px;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: white;    
+    letter-spacing: .2rem;
+}
+
+.btn-suvs {
+    width: 200px;
+    height: 50px;
+    margin: 90px 0 0 40px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: rgb(255, 136, 37);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+.main-luxury {
+    margin-top: -500px;
+    margin-left: 800px;
+    background: lightblue;
+    width: 400px;
+    height: 500px;
+}
+
+.car-luxury {
+    padding: 40px;
+}
+
+.title-luxury {
+    font-family: 'Big Shoulders Display', cursive;
+    /*font-family: 'Lexend Deca', sans-serif;*/
+    margin-left: 40px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;   
+}
+
+.text-luxury {
+    margin: 40px 0 0 40px;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color: white;    
+    letter-spacing: .2rem;
+}
+
+.btn-luxury {
+    width: 200px;
+    height: 50px;
+    margin: 72px 0 0 40px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: rgb(255, 136, 37);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-weight: bolder;
+    
+}
